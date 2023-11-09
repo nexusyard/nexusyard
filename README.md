@@ -12,5 +12,7 @@
 - [MERN Stack](https://play.google.com/store/apps/details?id=com.full_education)
 - [MEAN Stack](https://play.google.com/store/apps/details?id=com.mean_stack)
 - [Frontend App](https://play.google.com/store/apps/details?id=com.frontend_education)
-- [JAVA FULLSTACK](https://play.google.com/store/apps/details?id=com.java_interview_questions)
+- [Java Full Stack](https://play.google.com/store/apps/details?id=com.java_interview_questions)
 - [Daily Invoice](https://play.google.com/store/apps/details?id=com.daily_invoice)
+- [Ganesh Puja](https://play.google.com/store/apps/details?id=com.devipujanexus)
+- [Devi Puja](https://play.google.com/store/apps/details?id=com.ganeshpujanexus)
